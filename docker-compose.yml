@@ -1,4 +1,4 @@
-on: '2'
+versionon: '2'
 services:
     sitespeed.io:
       image: sitespeedio/sitespeed.io

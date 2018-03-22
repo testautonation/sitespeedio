@@ -1,4 +1,5 @@
-ertime": {
+{
+  "browsertime": {
     "iterations": 1,
     "browser": "chrome",
     "connectivity": {
