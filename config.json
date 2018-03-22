@@ -1,0 +1,20 @@
+ertime": {
+    "iterations": 1,
+    "browser": "chrome",
+    "connectivity": {
+     "profile": "3g"
+    }
+  },
+  "webpagetest": {
+   "key":"<API Key>",
+"runs": 1 },
+ "plugins": {
+  "add": "/sitespeed.io/plugin-gpsi"
+}, "gpsi": {
+  "key": "<API Key>"
+ },
+ "graphite": {
+  "host": "graphite"
+ },
+  "mobile": true
+}
